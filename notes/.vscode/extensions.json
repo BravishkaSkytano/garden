@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "vsls-contrib.gitdoc",
+    "alexandernanberg.horizon-theme-vscode",
+    "davidanson.vscode-markdownlint",
+    "tomoki1207.pdf",
+    "ms-vscode.wordcount",
+    "yzhang.markdown-all-in-one",
+    "houkanshan.vscode-markdown-footnote",
+    "streetsidesoftware.code-spell-checker",
+    "bierner.emojisense"
+  ]
+}
