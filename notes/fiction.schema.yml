@@ -12,5 +12,6 @@ schemas:
     - research
 - id: outline
   desc: "An outline of the novel using the 27-chapter, or 27-scenes, method"
-  template: template.27-chapters
-- id: 
+  template: fiction.template.27-chapters
+- id: characters
+  namespace: true
