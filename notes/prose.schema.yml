@@ -1,0 +1,20 @@
+version: 1
+imports: []
+schemas:
+  - id: prose
+    title: Prose
+    parent: root
+    children:
+      - pattern: fiction
+        children:
+          - pattern: '*'
+            children:
+              - pattern: outline
+                template: templates.27-chapter-outline
+              - pattern: characters
+                children:
+                  - pattern: '*'
+                    template: templates.character
+              - pattern: research
+                children:
+                  - pattern: '*'
