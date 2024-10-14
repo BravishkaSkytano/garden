@@ -1,0 +1,43 @@
+version: 1
+imports: []
+schemas:
+- id: worldbuilding
+  title: Worldbuilding
+  parent: root
+  namespace: true
+  children:
+  - languages
+  - geography
+  - ecosystems
+  - social-construction
+  - economy
+  - cultures-and-religions
+  - magical-systems
+  - technological-systems
+  - races
+  - species
+  - creatures
+
+- id: languages
+  desc: "Any languages and info for the world"
+
+- id: geography
+  desc: ""
+
+- id: ecosystems
+
+- id: social-construction
+
+- id: economy
+
+- id: cultures-and-religions
+
+- id: magical-systems
+
+- id: technological-systems
+
+- id: races
+
+- id: species
+
+- id: creatures

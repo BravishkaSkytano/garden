@@ -2,7 +2,7 @@ version: 1
 imports: []
 schemas:
 - id: fiction
-  title: fiction
+  title: Fiction
   parent: root
   namespace: true
   desc: "A new novel"
@@ -10,8 +10,15 @@ schemas:
     - outline
     - characters
     - research
+
 - id: outline
   desc: "An outline of the novel using the 27-chapter, or 27-scenes, method"
   template: fiction.template.27-chapters
+
 - id: characters
+  desc: "A new character"
+  namespace: true
+
+- id: research
+  desc: "Research for the novel"
   namespace: true
