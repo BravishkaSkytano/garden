@@ -92,7 +92,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
+        title: Yoela's Garden
         description: Personal Knowledge Space
     github:
         enableEditLink: false

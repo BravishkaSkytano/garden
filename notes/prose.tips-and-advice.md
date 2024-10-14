@@ -2,7 +2,7 @@
 id: 8yxv7w0okboy1gbreysq19u
 title: Tips and Advice
 desc: ''
-updated: 1728674663103
+updated: 1728871044996
 created: 1728674656886
 ---
 ## Playlists
@@ -23,7 +23,7 @@ created: 1728674656886
 - [The Ultimate Guide to Outlining Your Story: Exploring the 27-Chapter Outline, From Kat O&#39;Keeffe - YouTube](https://youtu.be/Y3wua1KWRVI?si=G-2ucsHFfqh4WsGA)
 - [The Ultimate Guide to Outlining Your Story: Exploring the 27-Chapter Outline—UPDATED - YouTube](https://youtu.be/RNV--FikzF0?si=zHBcy_JinlNZ-zwr)
 
-### Save the Cat!
+### Save the Cat
 
 - [How to Write a Novel in 15 Steps with the Save the Cat! Beat Sheet - YouTube](https://youtu.be/k8EfEEjbwGk?si=-Q1TkAttNqhammJx)
 
