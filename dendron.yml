@@ -95,7 +95,7 @@ publishing:
         title: Dendron
         description: Personal Knowledge Space
     github:
-        enableEditLink: true
+        enableEditLink: false
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
@@ -106,3 +106,5 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+    assetsPrefix: /garden
+    siteUrl: https://bravishkaskytano.github.io
