@@ -17,7 +17,9 @@
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
     "dendron.enableSelfContainedVaultWorkspace": true,
-    "gitdoc.enabled": false
+    "gitdoc.enabled": true,
+    "gitdoc.autoCommitDelay": 60000,
+    "gitdoc.filePattern": "*.md"
   },
   "extensions": {
     "recommendations": [
