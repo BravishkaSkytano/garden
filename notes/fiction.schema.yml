@@ -1,12 +1,16 @@
 version: 1
 imports: []
 schemas:
-  - id: fiction
-    title: fiction
-    parent: root
-    namespace: true
-    desc: "A new novel"
-    children:
-      - outline
-      - characters
-      - research
+- id: fiction
+  title: fiction
+  parent: root
+  namespace: true
+  desc: "A new novel"
+  children:
+    - outline
+    - characters
+    - research
+- id: outline
+  desc: "An outline of the novel using the 27-chapter, or 27-scenes, method"
+  template: template.27-chapters
+- id: 
