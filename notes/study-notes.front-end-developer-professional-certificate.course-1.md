@@ -2,7 +2,7 @@
 id: 0v5gxh971euh89tdpsce6hh
 title: Introduction to Front-End Development
 desc: ''
-updated: 1729023709980
+updated: 1729024591039
 created: 1729023501465
 ---
 ## Goals
@@ -21,7 +21,11 @@ created: 1729023501465
 
 ## Modules
 
-1. Get started with web development
-2. Introduction to HTML and CSS
-3. UI Frameworks
-4. End-of-Course Graded Assessment
+1. Get started with web development (4h)
+   1. 18 videos
+   2. 11 readings
+   3. 5 quizzes
+   4. 1 discussion prompt
+2. Introduction to HTML and CSS (6h)
+3. UI Frameworks (5h)
+4. End-of-Course Graded Assessment (2h)
