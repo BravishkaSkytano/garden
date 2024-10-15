@@ -2,7 +2,7 @@
 id: rp3sxu08dcfkaynb5g3ervr
 title: Persuasive Speech Prep
 desc: 'An outline for my persuasive speech'
-updated: 1728929877857
+updated: 1728947753610
 created: 1728673750111
 ---
 **Topic:** Linux is better than Windows for most people.
@@ -11,25 +11,34 @@ created: 1728673750111
 
 **Working Outline:**
 
-1. Overview of what an operating system is.
-   1. Definition
-   2. Examples
-2. Stability
-   1. What makes an OS stable?
-   2. How important is stability?
-   3. How do you figure how stable an OS is?
-3. Security
-   1. What makes an OS secure?
-   2. Does security change for different people?
-4. Flexibility
-   1. Levels of flexibility
-5. Customization
-   1. How much of the system can you customize?
-   2. How easy is the customization process?
-6. Cost
-   1. 
-7. Hardware compatibility
-8. Gaming
-9.  Community and Support
-10. Who should absolutely try Linux?
-11. Who should stick to Windows?
+- Overview of what an operating system is.
+  - Definition
+  - Examples
+- What is Windows?
+  - Origins and Founder(s)
+- What is Linux?
+  - Origins and Founder(s)
+- Stability
+  - What makes an OS stable?
+  - How important is stability?
+  - How do you figure how stable an OS is?
+- Security
+  - What makes an OS secure?
+  - Does security change for different people?
+- Flexibility
+  - Levels of flexibility
+- Customization
+  - How much of the system can you customize?
+  - How easy is the customization process?
+- Cost
+- Hardware compatibility
+- Gaming
+  - Support
+  - Ease of use
+- Community and Support
+  - Community vs industry support
+  - Is it easy to find?
+  - How difficult are bugs to fix?
+  - How active is the community?
+- Who should absolutely try Linux?
+- Who should stick to Windows?
