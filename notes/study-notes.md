@@ -2,7 +2,7 @@
 id: 36im6j46cxlgm7yqwfsy0sy
 title: Study Notes
 desc: ''
-updated: 1728667945688
+updated: 1729022548373
 created: 1728667916814
 ---
 The main courses in school include english , social science, science, foreign language, and humanities.
@@ -17,6 +17,3 @@ natural world.
 Foreign language is pretty easy, popular choices are spanish, french, chinese, japanese, and korean.
 
 Subjects of humanities are religion, philosophy, and history.
-
-
-Yoela's Garden
