@@ -1,0 +1,2429 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1729029319442,
+      "created": 1729029319442,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "root": {
+      "id": "root",
+      "title": "Yoela's Garden",
+      "desc": "",
+      "updated": 1728743963747,
+      "created": 1595961348801,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "ae2a8a5da1925caba2d4a39ffbc7d28f",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "wsv54z6fb6pyr9l8y3kv8li",
+        "36im6j46cxlgm7yqwfsy0sy",
+        "tqb5hhhvpbz2nzpykihc7l2",
+        "cyzf7ekzgc9m43pfwa3kv5e"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "cyzf7ekzgc9m43pfwa3kv5e": {
+      "fname": "templates",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1729029319057,
+      "created": 1729029319057,
+      "id": "cyzf7ekzgc9m43pfwa3kv5e",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "xt5gqnugi3ljicomzsv1xt2",
+        "nyvznty211gu3dcavt8uvu6"
+      ],
+      "parent": "root",
+      "data": {},
+      "title": "Templates"
+    },
+    "nyvznty211gu3dcavt8uvu6": {
+      "id": "nyvznty211gu3dcavt8uvu6",
+      "title": "Character",
+      "desc": "",
+      "updated": 1728940333241,
+      "created": 1728940333241,
+      "custom": {},
+      "fname": "templates.character",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "31110f822d5c4dc879af4953d3347883",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "cyzf7ekzgc9m43pfwa3kv5e",
+      "data": {}
+    },
+    "xt5gqnugi3ljicomzsv1xt2": {
+      "id": "xt5gqnugi3ljicomzsv1xt2",
+      "title": "27 Chapter Outline",
+      "desc": "",
+      "updated": 1728933225000,
+      "created": 1728933183583,
+      "custom": {},
+      "fname": "templates.27-chapter-outline",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "379ab1a70fa00ec11e0144771cb8709c",
+      "links": [],
+      "anchors": {
+        "outline": {
+          "type": "header",
+          "text": "Outline",
+          "value": "outline",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "act-1---setup": {
+          "type": "header",
+          "text": "Act 1 - Setup",
+          "value": "act-1---setup",
+          "line": 9,
+          "column": 0,
+          "depth": 3
+        },
+        "block-1---introducing-the-main-characters": {
+          "type": "header",
+          "text": "Block 1 - Introducing the Main Characters",
+          "value": "block-1---introducing-the-main-characters",
+          "line": 11,
+          "column": 0,
+          "depth": 4
+        },
+        "1-introduction---intro-to-set-up-their-ordinary-world": {
+          "type": "header",
+          "text": "1. INTRODUCTION - Intro to Set up Their Ordinary World",
+          "value": "1-introduction---intro-to-set-up-their-ordinary-world",
+          "line": 13,
+          "column": 0,
+          "depth": 5
+        },
+        "2-incident---inciting-incident-to-start-of-the-story": {
+          "type": "header",
+          "text": "2. INCIDENT - Inciting Incident to Start of the Story",
+          "value": "2-incident---inciting-incident-to-start-of-the-story",
+          "line": 17,
+          "column": 0,
+          "depth": 5
+        },
+        "3-fall-out---immediate-reaction-to-the-incident": {
+          "type": "header",
+          "text": "3. FALL OUT - Immediate Reaction to the Incident",
+          "value": "3-fall-out---immediate-reaction-to-the-incident",
+          "line": 21,
+          "column": 0,
+          "depth": 5
+        },
+        "block-2---life-gets-disrupted": {
+          "type": "header",
+          "text": "Block 2 - Life Gets Disrupted",
+          "value": "block-2---life-gets-disrupted",
+          "line": 25,
+          "column": 0,
+          "depth": 4
+        },
+        "4-reaction---mc-reacts--reflects-on-long-term-impacts": {
+          "type": "header",
+          "text": "4. REACTION - MC Reacts & Reflects on Long-term Impacts",
+          "value": "4-reaction---mc-reacts--reflects-on-long-term-impacts",
+          "line": 27,
+          "column": 0,
+          "depth": 5
+        },
+        "5-action---mc-takes-action": {
+          "type": "header",
+          "text": "5. ACTION - MC Takes Action",
+          "value": "5-action---mc-takes-action",
+          "line": 31,
+          "column": 0,
+          "depth": 5
+        },
+        "6-consequence---immediate-consequences-of-mcs-actions": {
+          "type": "header",
+          "text": "6. CONSEQUENCE - Immediate Consequences of MC’s Actions",
+          "value": "6-consequence---immediate-consequences-of-mcs-actions",
+          "line": 35,
+          "column": 0,
+          "depth": 5
+        },
+        "block-3---time-to-change": {
+          "type": "header",
+          "text": "Block 3 - Time to Change",
+          "value": "block-3---time-to-change",
+          "line": 39,
+          "column": 0,
+          "depth": 4
+        },
+        "7-pressure---mcs-life-has-changed-creating-pressure--stress": {
+          "type": "header",
+          "text": "7. PRESSURE - MC’s Life Has Changed, Creating Pressure & Stress",
+          "value": "7-pressure---mcs-life-has-changed-creating-pressure--stress",
+          "line": 41,
+          "column": 0,
+          "depth": 5
+        },
+        "8-plot-twist---the-first-pinch-or-plot-twist-occurs": {
+          "type": "header",
+          "text": "8. PLOT TWIST - The First Pinch or Plot Twist Occurs",
+          "value": "8-plot-twist---the-first-pinch-or-plot-twist-occurs",
+          "line": 45,
+          "column": 0,
+          "depth": 5
+        },
+        "9-push----due-to-the-plot-twist-the-mc-is-pushed-into-the-new-world": {
+          "type": "header",
+          "text": "9. PUSH → - Due to the Plot Twist, the MC is Pushed into the New World",
+          "value": "9-push----due-to-the-plot-twist-the-mc-is-pushed-into-the-new-world",
+          "line": 49,
+          "column": 0,
+          "depth": 5
+        },
+        "act-2---conflict": {
+          "type": "header",
+          "text": "Act 2 - Conflict",
+          "value": "act-2---conflict",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "block-4---settle-into-new-world": {
+          "type": "header",
+          "text": "Block 4 - Settle into New World",
+          "value": "block-4---settle-into-new-world",
+          "line": 55,
+          "column": 0,
+          "depth": 4
+        },
+        "10-new-world---intro-to-the-new-world-whats-changed-mcs-feelings": {
+          "type": "header",
+          "text": "10. NEW WORLD - Intro to the New World. What’s Changed? MC’s Feelings?",
+          "value": "10-new-world---intro-to-the-new-world-whats-changed-mcs-feelings",
+          "line": 57,
+          "column": 0,
+          "depth": 5
+        },
+        "11-fun--games---mc-takes-a-break-has-a-little-fun": {
+          "type": "header",
+          "text": "11. FUN & GAMES - MC Takes a Break, Has a Little Fun",
+          "value": "11-fun--games---mc-takes-a-break-has-a-little-fun",
+          "line": 61,
+          "column": 0,
+          "depth": 5
+        },
+        "12-juxtaposition---comparison-between-the-past-world-and-the-present-one": {
+          "type": "header",
+          "text": "12. JUXTAPOSITION - Comparison between the past World and the Present One",
+          "value": "12-juxtaposition---comparison-between-the-past-world-and-the-present-one",
+          "line": 65,
+          "column": 0,
+          "depth": 5
+        },
+        "block-5---main-conflict": {
+          "type": "header",
+          "text": "Block 5 - Main Conflict",
+          "value": "block-5---main-conflict",
+          "line": 69,
+          "column": 0,
+          "depth": 4
+        },
+        "13-build-up---midpoint-is-approaching": {
+          "type": "header",
+          "text": "13. BUILD UP - Midpoint is Approaching!",
+          "value": "13-build-up---midpoint-is-approaching",
+          "line": 71,
+          "column": 0,
+          "depth": 5
+        },
+        "14-midpoint---the-main-midpoint-conflict": {
+          "type": "header",
+          "text": "14. MIDPOINT - The Main Midpoint Conflict",
+          "value": "14-midpoint---the-main-midpoint-conflict",
+          "line": 75,
+          "column": 0,
+          "depth": 5
+        },
+        "15-reversal---immediate-reaction-or-consequence-of-the-midpoint": {
+          "type": "header",
+          "text": "15. REVERSAL - Immediate Reaction or Consequence of the Midpoint",
+          "value": "15-reversal---immediate-reaction-or-consequence-of-the-midpoint",
+          "line": 79,
+          "column": 0,
+          "depth": 5
+        },
+        "block-6---find-the-end-goal": {
+          "type": "header",
+          "text": "Block 6 - Find the End-goal",
+          "value": "block-6---find-the-end-goal",
+          "line": 83,
+          "column": 0,
+          "depth": 4
+        },
+        "16-consequence---mc-reflects-on-long-term-impacts-of-midpoint": {
+          "type": "header",
+          "text": "16. CONSEQUENCE - MC Reflects on Long-term Impacts of Midpoint",
+          "value": "16-consequence---mc-reflects-on-long-term-impacts-of-midpoint",
+          "line": 85,
+          "column": 0,
+          "depth": 5
+        },
+        "17-trials---mc-takes-action-but-due-to-the-enormity-of-the-task-stuff-go-wrong": {
+          "type": "header",
+          "text": "17. TRIALS - MC Takes Action, but due to the Enormity of the Task, Stuff Go Wrong",
+          "value": "17-trials---mc-takes-action-but-due-to-the-enormity-of-the-task-stuff-go-wrong",
+          "line": 89,
+          "column": 0,
+          "depth": 5
+        },
+        "18-dedicated---despite-setbacks-mc-decides-to-succeed-no-matter-what": {
+          "type": "header",
+          "text": "18. DEDICATED - Despite Setbacks, MC Decides to Succeed no Matter what",
+          "value": "18-dedicated---despite-setbacks-mc-decides-to-succeed-no-matter-what",
+          "line": 93,
+          "column": 0,
+          "depth": 5
+        },
+        "act-3---resolution": {
+          "type": "header",
+          "text": "Act 3 - Resolution",
+          "value": "act-3---resolution",
+          "line": 97,
+          "column": 0,
+          "depth": 3
+        },
+        "block-7---darkest-moment": {
+          "type": "header",
+          "text": "Block 7 - Darkest Moment",
+          "value": "block-7---darkest-moment",
+          "line": 99,
+          "column": 0,
+          "depth": 4
+        },
+        "19-calm-before-the-storm---stuff-seem-to-calm-down-but-the-tension-is-still-there": {
+          "type": "header",
+          "text": "19. CALM BEFORE THE STORM - Stuff Seem to Calm Down, but the Tension is Still there",
+          "value": "19-calm-before-the-storm---stuff-seem-to-calm-down-but-the-tension-is-still-there",
+          "line": 101,
+          "column": 0,
+          "depth": 5
+        },
+        "20-plot-twist---mc-experiences-something-completely-unexpected": {
+          "type": "header",
+          "text": "20. PLOT TWIST - MC Experiences Something Completely Unexpected",
+          "value": "20-plot-twist---mc-experiences-something-completely-unexpected",
+          "line": 105,
+          "column": 0,
+          "depth": 5
+        },
+        "21-darkest-moment---success-seems-impossible": {
+          "type": "header",
+          "text": "21. DARKEST MOMENT - Success Seems Impossible",
+          "value": "21-darkest-moment---success-seems-impossible",
+          "line": 109,
+          "column": 0,
+          "depth": 5
+        },
+        "block-8---motivated": {
+          "type": "header",
+          "text": "Block 8 - Motivated",
+          "value": "block-8---motivated",
+          "line": 113,
+          "column": 0,
+          "depth": 4
+        },
+        "22-power-within---mc-remembers-their-desire-to-succeed--finds-their-inner-power": {
+          "type": "header",
+          "text": "22. POWER WITHIN - MC Remembers Their Desire to Succeed & Finds Their Inner Power",
+          "value": "22-power-within---mc-remembers-their-desire-to-succeed--finds-their-inner-power",
+          "line": 115,
+          "column": 0,
+          "depth": 5
+        },
+        "23-actionrally---mc-takes-action-plot-lines-begin-to-converge": {
+          "type": "header",
+          "text": "23. ACTION/RALLY - MC Takes Action, Plot Lines Begin to Converge",
+          "value": "23-actionrally---mc-takes-action-plot-lines-begin-to-converge",
+          "line": 119,
+          "column": 0,
+          "depth": 5
+        },
+        "24-converge---the-final-battle-is-approaching": {
+          "type": "header",
+          "text": "24. CONVERGE - The Final Battle is Approaching!",
+          "value": "24-converge---the-final-battle-is-approaching",
+          "line": 123,
+          "column": 0,
+          "depth": 5
+        },
+        "block-9---finale": {
+          "type": "header",
+          "text": "Block 9 - Finale",
+          "value": "block-9---finale",
+          "line": 127,
+          "column": 0,
+          "depth": 4
+        },
+        "25-battle---the-finale-mc-has-one-last-battle": {
+          "type": "header",
+          "text": "25. BATTLE - The Finale! MC Has One Last Battle",
+          "value": "25-battle---the-finale-mc-has-one-last-battle",
+          "line": 129,
+          "column": 0,
+          "depth": 5
+        },
+        "26-climax---mc-takes-action-to-resolve-the-problem-from-the-midpoint": {
+          "type": "header",
+          "text": "26. CLIMAX - MC Takes Action to Resolve the Problem from the Midpoint",
+          "value": "26-climax---mc-takes-action-to-resolve-the-problem-from-the-midpoint",
+          "line": 133,
+          "column": 0,
+          "depth": 5
+        },
+        "27-resolution---immediate-reaction-to-mcs-decision": {
+          "type": "header",
+          "text": "27. RESOLUTION - Immediate Reaction to MC’s Decision",
+          "value": "27-resolution---immediate-reaction-to-mcs-decision",
+          "line": 137,
+          "column": 0,
+          "depth": 5
+        }
+      },
+      "children": [],
+      "parent": "cyzf7ekzgc9m43pfwa3kv5e",
+      "data": {}
+    },
+    "tqb5hhhvpbz2nzpykihc7l2": {
+      "id": "tqb5hhhvpbz2nzpykihc7l2",
+      "title": "Worldbuilding",
+      "desc": "",
+      "updated": 1728939930848,
+      "created": 1728936443598,
+      "custom": {},
+      "fname": "worldbuilding",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "f751c7b933ccff3712e59545b40a9b77",
+      "links": [],
+      "anchors": {
+        "world-overview": {
+          "type": "header",
+          "text": "World Overview**",
+          "value": "world-overview",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "ii-magic-system": {
+          "type": "header",
+          "text": "II. Magic System",
+          "value": "ii-magic-system",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "society-and-politics": {
+          "type": "header",
+          "text": "Society and Politics",
+          "value": "society-and-politics",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "dh77ksbblhai1bj8tlv1fdv"
+      ],
+      "parent": "root",
+      "data": {},
+      "schema": {
+        "schemaId": "worldbuilding",
+        "moduleId": "worldbuilding"
+      }
+    },
+    "dh77ksbblhai1bj8tlv1fdv": {
+      "id": "dh77ksbblhai1bj8tlv1fdv",
+      "title": "Ilmaria",
+      "desc": "",
+      "updated": 1728921785332,
+      "created": 1728921279815,
+      "custom": {},
+      "fname": "worldbuilding.ilmaria",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "0d9ae60b4c5b422cb6007bfb8393f81e",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "0dldn0sqbain8rek4c9y1xd",
+        "f8se6u4qzarbu6ng3ak44vz",
+        "gq3hcnu0xitvqq7xcougdx4"
+      ],
+      "parent": "tqb5hhhvpbz2nzpykihc7l2",
+      "data": {},
+      "schema": {
+        "schemaId": "g35q0q7l7a3xpbzpbzp4jwm",
+        "moduleId": "worldbuilding"
+      }
+    },
+    "gq3hcnu0xitvqq7xcougdx4": {
+      "id": "gq3hcnu0xitvqq7xcougdx4",
+      "title": "Magical Systems",
+      "desc": "",
+      "updated": 1728921728258,
+      "created": 1728921701591,
+      "custom": {},
+      "fname": "worldbuilding.ilmaria.magical-systems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "96afe8cf000be2c887f04fc54e5b1261",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.magical-systems",
+            "id": "gq3hcnu0xitvqq7xcougdx4",
+            "vaultName": "Dendron"
+          },
+          "value": "Crystalline Peaks",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 26,
+              "offset": 137
+            },
+            "end": {
+              "line": 3,
+              "column": 47,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Crystalline Peaks"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.magical-systems",
+            "id": "gq3hcnu0xitvqq7xcougdx4",
+            "vaultName": "Dendron"
+          },
+          "value": "Eldoria Forests",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 27,
+              "offset": 240
+            },
+            "end": {
+              "line": 4,
+              "column": 46,
+              "offset": 259
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Eldoria Forests"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.magical-systems",
+            "id": "gq3hcnu0xitvqq7xcougdx4",
+            "vaultName": "Dendron"
+          },
+          "value": "Shimmering Isles",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 25,
+              "offset": 325
+            },
+            "end": {
+              "line": 5,
+              "column": 45,
+              "offset": 345
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Shimmering Isles"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.magical-systems",
+            "id": "gq3hcnu0xitvqq7xcougdx4",
+            "vaultName": "Dendron"
+          },
+          "value": "Sunken Abyss",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 26,
+              "offset": 410
+            },
+            "end": {
+              "line": 6,
+              "column": 42,
+              "offset": 426
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Sunken Abyss"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.magical-systems",
+            "id": "gq3hcnu0xitvqq7xcougdx4",
+            "vaultName": "Dendron"
+          },
+          "value": "Ashen Wastes",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 25,
+              "offset": 487
+            },
+            "end": {
+              "line": 7,
+              "column": 41,
+              "offset": 503
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Ashen Wastes"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dh77ksbblhai1bj8tlv1fdv",
+      "data": {},
+      "schema": {
+        "schemaId": "2jwcqsvjlo78p8wbunl46k6",
+        "moduleId": "worldbuilding"
+      }
+    },
+    "f8se6u4qzarbu6ng3ak44vz": {
+      "id": "f8se6u4qzarbu6ng3ak44vz",
+      "title": "Geography",
+      "desc": "",
+      "updated": 1728921618524,
+      "created": 1728921321491,
+      "custom": {},
+      "fname": "worldbuilding.ilmaria.geography",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "e90a0e6c8c74e2df255dc77effd87deb",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography",
+            "id": "f8se6u4qzarbu6ng3ak44vz",
+            "vaultName": "Dendron"
+          },
+          "value": "Gemfolk",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 131,
+              "offset": 251
+            },
+            "end": {
+              "line": 5,
+              "column": 142,
+              "offset": 262
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Gemfolk"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography",
+            "id": "f8se6u4qzarbu6ng3ak44vz",
+            "vaultName": "Dendron"
+          },
+          "value": "Elves",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 135,
+              "offset": 508
+            },
+            "end": {
+              "line": 9,
+              "column": 144,
+              "offset": 517
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Elves"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography",
+            "id": "f8se6u4qzarbu6ng3ak44vz",
+            "vaultName": "Dendron"
+          },
+          "value": "Aerians",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 98,
+              "offset": 715
+            },
+            "end": {
+              "line": 13,
+              "column": 109,
+              "offset": 726
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Aerians"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography",
+            "id": "f8se6u4qzarbu6ng3ak44vz",
+            "vaultName": "Dendron"
+          },
+          "value": "Merfolk",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 93,
+              "offset": 941
+            },
+            "end": {
+              "line": 17,
+              "column": 104,
+              "offset": 952
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Merfolk"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography",
+            "id": "f8se6u4qzarbu6ng3ak44vz",
+            "vaultName": "Dendron"
+          },
+          "value": "Fireborn",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 111,
+              "offset": 1213
+            },
+            "end": {
+              "line": 21,
+              "column": 123,
+              "offset": 1225
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Fireborn"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography",
+            "id": "f8se6u4qzarbu6ng3ak44vz",
+            "vaultName": "Dendron"
+          },
+          "value": "Human",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 52,
+              "offset": 1394
+            },
+            "end": {
+              "line": 25,
+              "column": 61,
+              "offset": 1403
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Human"
+          }
+        }
+      ],
+      "anchors": {
+        "crystalline-peaks": {
+          "type": "header",
+          "text": "Crystalline Peaks",
+          "value": "crystalline-peaks",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "eldoria-forests": {
+          "type": "header",
+          "text": "Eldoria Forests",
+          "value": "eldoria-forests",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "shimmering-isles": {
+          "type": "header",
+          "text": "Shimmering Isles",
+          "value": "shimmering-isles",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "sunken-abyss": {
+          "type": "header",
+          "text": "Sunken Abyss",
+          "value": "sunken-abyss",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "ashen-wastes": {
+          "type": "header",
+          "text": "Ashen Wastes",
+          "value": "ashen-wastes",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "verdant-plains": {
+          "type": "header",
+          "text": "Verdant Plains",
+          "value": "verdant-plains",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "sunaara-deserts": {
+          "type": "header",
+          "text": "Sunaara Deserts",
+          "value": "sunaara-deserts",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "xd02lifwz8uu4mm8amq2qf4"
+      ],
+      "parent": "dh77ksbblhai1bj8tlv1fdv",
+      "data": {},
+      "schema": {
+        "schemaId": "ynmmbmfnduq4uzvvr6t8cgj",
+        "moduleId": "worldbuilding"
+      }
+    },
+    "xd02lifwz8uu4mm8amq2qf4": {
+      "id": "xd02lifwz8uu4mm8amq2qf4",
+      "title": "Sunaara Deserts",
+      "desc": "",
+      "updated": 1728931916246,
+      "created": 1728931888155,
+      "custom": {},
+      "fname": "worldbuilding.ilmaria.geography.sunaara-deserts",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "bab070dd013aa7acf502f02597590da4",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography.sunaara-deserts",
+            "id": "xd02lifwz8uu4mm8amq2qf4",
+            "vaultName": "Dendron"
+          },
+          "value": "Ilmaria",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 60,
+              "offset": 73
+            },
+            "end": {
+              "line": 3,
+              "column": 71,
+              "offset": 84
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Ilmaria"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography.sunaara-deserts",
+            "id": "xd02lifwz8uu4mm8amq2qf4",
+            "vaultName": "Dendron"
+          },
+          "value": "Verdant Plains",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 89,
+              "offset": 102
+            },
+            "end": {
+              "line": 3,
+              "column": 107,
+              "offset": 120
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Verdant Plains"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "worldbuilding.ilmaria.geography.sunaara-deserts",
+            "id": "xd02lifwz8uu4mm8amq2qf4",
+            "vaultName": "Dendron"
+          },
+          "value": "Ashen Wastes",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 129,
+              "offset": 142
+            },
+            "end": {
+              "line": 3,
+              "column": 145,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Ashen Wastes"
+          }
+        }
+      ],
+      "anchors": {
+        "geography": {
+          "type": "header",
+          "text": "Geography",
+          "value": "geography",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "societies-and-cultures": {
+          "type": "header",
+          "text": "Societies and Cultures",
+          "value": "societies-and-cultures",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "magic-and-mysticism": {
+          "type": "header",
+          "text": "Magic and Mysticism",
+          "value": "magic-and-mysticism",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "mystical-creatures": {
+          "type": "header",
+          "text": "Mystical Creatures",
+          "value": "mystical-creatures",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "economy-and-trade": {
+          "type": "header",
+          "text": "Economy and Trade",
+          "value": "economy-and-trade",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        },
+        "conclusion": {
+          "type": "header",
+          "text": "Conclusion",
+          "value": "conclusion",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "f8se6u4qzarbu6ng3ak44vz",
+      "data": {}
+    },
+    "0dldn0sqbain8rek4c9y1xd": {
+      "id": "0dldn0sqbain8rek4c9y1xd",
+      "title": "Creatures",
+      "desc": "",
+      "updated": 1728921768763,
+      "created": 1728921754530,
+      "custom": {},
+      "fname": "worldbuilding.ilmaria.creatures",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "ae732cd13104d85111ec2885fbc7e11d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dh77ksbblhai1bj8tlv1fdv",
+      "data": {},
+      "schema": {
+        "schemaId": "ve34dbgr51i1fj0jmata2t8",
+        "moduleId": "worldbuilding"
+      }
+    },
+    "36im6j46cxlgm7yqwfsy0sy": {
+      "id": "36im6j46cxlgm7yqwfsy0sy",
+      "title": "Study Notes",
+      "desc": "",
+      "updated": 1729022548373,
+      "created": 1728667916814,
+      "custom": {},
+      "fname": "study-notes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "cb5d262f633ebcd56bebba18481d5a36",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "31gg9ix2f4hekkbd3aeuvqa",
+        "5v6kjjpt4r3tjxbe8o5f9jc",
+        "1ew6j3ex8lt2kobdm8yvw75",
+        "7rc6z9shlwaktmmg010lf9l",
+        "zic4gzre50xd0tv6dtd3wyu"
+      ],
+      "parent": "root",
+      "data": {}
+    },
+    "zic4gzre50xd0tv6dtd3wyu": {
+      "id": "zic4gzre50xd0tv6dtd3wyu",
+      "title": "SOC2110 Service Learning",
+      "desc": "",
+      "updated": 1728674502066,
+      "created": 1728674484646,
+      "custom": {},
+      "fname": "study-notes.soc2110",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "d24427bab4884894edd480706eb1837e",
+      "links": [],
+      "anchors": {
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "learning-objectives": {
+          "type": "header",
+          "text": "Learning Objectives",
+          "value": "learning-objectives",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "xb3xvb90gi0rwimlzbs28wp"
+      ],
+      "parent": "36im6j46cxlgm7yqwfsy0sy",
+      "data": {}
+    },
+    "xb3xvb90gi0rwimlzbs28wp": {
+      "id": "xb3xvb90gi0rwimlzbs28wp",
+      "title": "Project Summary",
+      "desc": "",
+      "updated": 1728674530995,
+      "created": 1728674524967,
+      "custom": {},
+      "fname": "study-notes.soc2110.project-summary",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "a25a5682d489289570e83fbe2a491d0d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "zic4gzre50xd0tv6dtd3wyu",
+      "data": {}
+    },
+    "7rc6z9shlwaktmmg010lf9l": {
+      "id": "7rc6z9shlwaktmmg010lf9l",
+      "title": "REL1010 Introduction to Old Testament",
+      "desc": "",
+      "updated": 1728674120158,
+      "created": 1728674058840,
+      "custom": {},
+      "fname": "study-notes.rel1010",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "64e32e1cf9d72956b37eb3912f60b70e",
+      "links": [],
+      "anchors": {
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "learning-objectives": {
+          "type": "header",
+          "text": "Learning Objectives",
+          "value": "learning-objectives",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "section-1-from-creation-to-the-transjordan": {
+          "type": "header",
+          "text": "Section 1: From Creation to the Transjordan",
+          "value": "section-1-from-creation-to-the-transjordan",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "section-2-from-the-conquest-to-the-babylonian-exile": {
+          "type": "header",
+          "text": "Section 2: From the Conquest to the Babylonian Exile",
+          "value": "section-2-from-the-conquest-to-the-babylonian-exile",
+          "line": 27,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "36im6j46cxlgm7yqwfsy0sy",
+      "data": {}
+    },
+    "1ew6j3ex8lt2kobdm8yvw75": {
+      "id": "1ew6j3ex8lt2kobdm8yvw75",
+      "title": "PHL1113 Survey of Social Engagement",
+      "desc": "",
+      "updated": 1728674015669,
+      "created": 1728673976772,
+      "custom": {},
+      "fname": "study-notes.phl1113",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "104f59ad258bcacedfe27a4c971b768f",
+      "links": [],
+      "anchors": {
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "learning-objectives": {
+          "type": "header",
+          "text": "Learning Objectives",
+          "value": "learning-objectives",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "36im6j46cxlgm7yqwfsy0sy",
+      "data": {}
+    },
+    "5v6kjjpt4r3tjxbe8o5f9jc": {
+      "id": "5v6kjjpt4r3tjxbe8o5f9jc",
+      "title": "Meta Front-End Developer Certificate",
+      "desc": "",
+      "updated": 1729027534099,
+      "created": 1729022792640,
+      "custom": {},
+      "fname": "study-notes.front-end-developer-certificate",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "a54ca8d64cc7ec5a690cd0521a226276",
+      "links": [],
+      "anchors": {
+        "what-youll-learn": {
+          "type": "header",
+          "text": "What you'll learn",
+          "value": "what-youll-learn",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "skills-youll-gain": {
+          "type": "header",
+          "text": "Skills you'll gain",
+          "value": "skills-youll-gain",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "courses-7-months-6-hours-a-week": {
+          "type": "header",
+          "text": "Courses (7 months, 6 hours a week)",
+          "value": "courses-7-months-6-hours-a-week",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "0v5gxh971euh89tdpsce6hh"
+      ],
+      "parent": "36im6j46cxlgm7yqwfsy0sy",
+      "data": {}
+    },
+    "0v5gxh971euh89tdpsce6hh": {
+      "id": "0v5gxh971euh89tdpsce6hh",
+      "title": "Introduction to Front-End Development",
+      "desc": "",
+      "updated": 1729025225849,
+      "created": 1729023501465,
+      "custom": {},
+      "fname": "study-notes.front-end-developer-certificate.course-1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "6ffb995dd774e6c6c8b1ace24db97f17",
+      "links": [],
+      "anchors": {
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "skills-you-will-gain": {
+          "type": "header",
+          "text": "Skills you will gain",
+          "value": "skills-you-will-gain",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "modules": {
+          "type": "header",
+          "text": "Modules",
+          "value": "modules",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "5319t32cb45w37lzh80iqr9",
+        "6eqez8mpkwuecuaytj6uo8b"
+      ],
+      "parent": "5v6kjjpt4r3tjxbe8o5f9jc",
+      "data": {}
+    },
+    "6eqez8mpkwuecuaytj6uo8b": {
+      "id": "6eqez8mpkwuecuaytj6uo8b",
+      "title": "Intro",
+      "desc": "",
+      "updated": 1729025662138,
+      "created": 1729025368585,
+      "custom": {},
+      "fname": "study-notes.front-end-developer-certificate.course-1.introduction",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "8b8651ab7415e5905f171ecb250f29a7",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.introduction",
+            "id": "6eqez8mpkwuecuaytj6uo8b",
+            "vaultName": "Dendron"
+          },
+          "value": "HTML",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 72,
+              "offset": 71
+            },
+            "end": {
+              "line": 1,
+              "column": 80,
+              "offset": 79
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "HTML"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.introduction",
+            "id": "6eqez8mpkwuecuaytj6uo8b",
+            "vaultName": "Dendron"
+          },
+          "value": "CSS",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 82,
+              "offset": 81
+            },
+            "end": {
+              "line": 1,
+              "column": 89,
+              "offset": 88
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CSS"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.introduction",
+            "id": "6eqez8mpkwuecuaytj6uo8b",
+            "vaultName": "Dendron"
+          },
+          "value": "JavaScript",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 95,
+              "offset": 94
+            },
+            "end": {
+              "line": 1,
+              "column": 109,
+              "offset": 108
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "JavaScript"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "0v5gxh971euh89tdpsce6hh",
+      "data": {}
+    },
+    "5319t32cb45w37lzh80iqr9": {
+      "id": "5319t32cb45w37lzh80iqr9",
+      "title": "How the Web Works",
+      "desc": "",
+      "updated": 1729025693918,
+      "created": 1729025693918,
+      "custom": {},
+      "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "3d15eb10dbb8630538025fe445cbf9ca",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "lo02xz8yj8lyx9vlweiv7z8"
+      ],
+      "parent": "0v5gxh971euh89tdpsce6hh",
+      "data": {}
+    },
+    "lo02xz8yj8lyx9vlweiv7z8": {
+      "id": "lo02xz8yj8lyx9vlweiv7z8",
+      "title": "How the Internet Works",
+      "desc": "",
+      "updated": 1729025967562,
+      "created": 1729025744199,
+      "custom": {},
+      "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works.how-the-internet-works",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "1bc08f263b8ddf483572d9c358eac988",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works.how-the-internet-works",
+            "id": "lo02xz8yj8lyx9vlweiv7z8",
+            "vaultName": "Dendron"
+          },
+          "value": "network",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 71,
+              "offset": 70
+            },
+            "end": {
+              "line": 1,
+              "column": 82,
+              "offset": 81
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "network"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works.how-the-internet-works",
+            "id": "lo02xz8yj8lyx9vlweiv7z8",
+            "vaultName": "Dendron"
+          },
+          "value": "Network switches",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 1,
+              "offset": 84
+            },
+            "end": {
+              "line": 3,
+              "column": 21,
+              "offset": 104
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Network switches"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works.how-the-internet-works",
+            "id": "lo02xz8yj8lyx9vlweiv7z8",
+            "vaultName": "Dendron"
+          },
+          "value": "interconnected network",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 57,
+              "offset": 240
+            },
+            "end": {
+              "line": 5,
+              "column": 83,
+              "offset": 266
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "interconnected network"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works.how-the-internet-works",
+            "id": "lo02xz8yj8lyx9vlweiv7z8",
+            "vaultName": "Dendron"
+          },
+          "value": "servers",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 57,
+              "offset": 358
+            },
+            "end": {
+              "line": 7,
+              "column": 68,
+              "offset": 369
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "servers"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works.how-the-internet-works",
+            "id": "lo02xz8yj8lyx9vlweiv7z8",
+            "vaultName": "Dendron"
+          },
+          "value": "clients",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 132,
+              "offset": 433
+            },
+            "end": {
+              "line": 7,
+              "column": 143,
+              "offset": 444
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "clients"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "study-notes.front-end-developer-certificate.course-1.how-the-web-works.how-the-internet-works",
+            "id": "lo02xz8yj8lyx9vlweiv7z8",
+            "vaultName": "Dendron"
+          },
+          "value": "client-server model",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 166,
+              "offset": 467
+            },
+            "end": {
+              "line": 7,
+              "column": 189,
+              "offset": 490
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "client-server model"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "5319t32cb45w37lzh80iqr9",
+      "data": {}
+    },
+    "31gg9ix2f4hekkbd3aeuvqa": {
+      "id": "31gg9ix2f4hekkbd3aeuvqa",
+      "title": "COM101 Speech Communication",
+      "desc": "",
+      "updated": 1728674285461,
+      "created": 1728673574178,
+      "custom": {},
+      "fname": "study-notes.com101",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "4cf66a759ba19312dd51431f09a7a10e",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "n09kh21ppcgtwroghl2pw8c",
+        "rp3sxu08dcfkaynb5g3ervr",
+        "2dzily55yqbxz28i6nb8dup",
+        "l10nvjxxz5knjqf6nunz04z",
+        "g3irz2bpj2z03vzur9kn7i2"
+      ],
+      "parent": "36im6j46cxlgm7yqwfsy0sy",
+      "data": {}
+    },
+    "g3irz2bpj2z03vzur9kn7i2": {
+      "id": "g3irz2bpj2z03vzur9kn7i2",
+      "title": "Writing Assignment 3",
+      "desc": "",
+      "updated": 1728673890655,
+      "created": 1728673881354,
+      "custom": {},
+      "fname": "study-notes.com101.writing-assignment-3",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "511a765014c4243ad4cee17ccccb6433",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "31gg9ix2f4hekkbd3aeuvqa",
+      "data": {}
+    },
+    "l10nvjxxz5knjqf6nunz04z": {
+      "id": "l10nvjxxz5knjqf6nunz04z",
+      "title": "Writing Assignment 1 - Public Speaking and Me",
+      "desc": "",
+      "updated": 1728673862070,
+      "created": 1728673849793,
+      "custom": {},
+      "fname": "study-notes.com101.writing-assignment-1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "e2a44a39fa721fad590e764142f749b7",
+      "links": [],
+      "anchors": {
+        "my-experiences": {
+          "type": "header",
+          "text": "My Experiences",
+          "value": "my-experiences",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "the-most-challenging-part": {
+          "type": "header",
+          "text": "The Most Challenging Part",
+          "value": "the-most-challenging-part",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "31gg9ix2f4hekkbd3aeuvqa",
+      "data": {}
+    },
+    "2dzily55yqbxz28i6nb8dup": {
+      "id": "2dzily55yqbxz28i6nb8dup",
+      "title": "Reading Reflection 3 - Summary of Chapter 5",
+      "desc": "",
+      "updated": 1728673816897,
+      "created": 1728673784278,
+      "custom": {},
+      "fname": "study-notes.com101.reading-reflection-3",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "5e5faf4e1be1936e9d6aa27155cf0478",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "31gg9ix2f4hekkbd3aeuvqa",
+      "data": {}
+    },
+    "rp3sxu08dcfkaynb5g3ervr": {
+      "id": "rp3sxu08dcfkaynb5g3ervr",
+      "title": "Persuasive Speech Prep",
+      "desc": "An outline for my persuasive speech",
+      "updated": 1728947753610,
+      "created": 1728673750111,
+      "custom": {},
+      "fname": "study-notes.com101.persuasive-speech-prep",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "1ab9b1c37896d0389a3301a379f01329",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "31gg9ix2f4hekkbd3aeuvqa",
+      "data": {}
+    },
+    "n09kh21ppcgtwroghl2pw8c": {
+      "id": "n09kh21ppcgtwroghl2pw8c",
+      "title": "Informative Speech Prep",
+      "desc": "The introduction for my informative speech",
+      "updated": 1729029183501,
+      "created": 1728673698973,
+      "custom": {},
+      "fname": "study-notes.com101.informative-speech-prep",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "871b4376bec0dccc2ef7ef42ad8a1b6f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "31gg9ix2f4hekkbd3aeuvqa",
+      "data": {}
+    },
+    "wsv54z6fb6pyr9l8y3kv8li": {
+      "id": "wsv54z6fb6pyr9l8y3kv8li",
+      "title": "Prose",
+      "desc": "",
+      "updated": 1728674614496,
+      "created": 1728674602542,
+      "custom": {},
+      "fname": "prose",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "d114c37d616478eebb227aa936cd05e6",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "fkp9z25pghg6t1y5h2hdkyt",
+        "8yxv7w0okboy1gbreysq19u"
+      ],
+      "parent": "root",
+      "data": {},
+      "schema": {
+        "schemaId": "prose",
+        "moduleId": "prose"
+      }
+    },
+    "8yxv7w0okboy1gbreysq19u": {
+      "id": "8yxv7w0okboy1gbreysq19u",
+      "title": "Tips and Advice",
+      "desc": "",
+      "updated": 1728871044996,
+      "created": 1728674656886,
+      "custom": {},
+      "fname": "prose.tips-and-advice",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "f7ec7309c9e84918911d614d6d76ead5",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "prose.tips-and-advice",
+            "id": "8yxv7w0okboy1gbreysq19u",
+            "vaultName": "Dendron"
+          },
+          "value": "dialogue tags",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 19,
+              "offset": 2137
+            },
+            "end": {
+              "line": 38,
+              "column": 36,
+              "offset": 2154
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dialogue tags"
+          }
+        }
+      ],
+      "anchors": {
+        "playlists": {
+          "type": "header",
+          "text": "Playlists",
+          "value": "playlists",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "general-tips--tricks": {
+          "type": "header",
+          "text": "General Tips & Tricks",
+          "value": "general-tips--tricks",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "plotting--outlining-methods": {
+          "type": "header",
+          "text": "Plotting & Outlining Methods",
+          "value": "plotting--outlining-methods",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "27-chapter-": {
+          "type": "header",
+          "text": "27-Chapter 💖",
+          "value": "27-chapter-",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "save-the-cat": {
+          "type": "header",
+          "text": "Save the Cat",
+          "value": "save-the-cat",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        },
+        "dialogue": {
+          "type": "header",
+          "text": "Dialogue",
+          "value": "dialogue",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wsv54z6fb6pyr9l8y3kv8li",
+      "data": {}
+    },
+    "fkp9z25pghg6t1y5h2hdkyt": {
+      "id": "fkp9z25pghg6t1y5h2hdkyt",
+      "title": "Fiction",
+      "desc": "",
+      "updated": 1728921933077,
+      "created": 1728674684118,
+      "custom": {},
+      "fname": "prose.fiction",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "d4550ae400489bacf16d6a3446bfc0e7",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "7o4x1koo1ybckn6wkwzrx69"
+      ],
+      "parent": "wsv54z6fb6pyr9l8y3kv8li",
+      "data": {},
+      "schema": {
+        "schemaId": "282snyxcijxluhcc7jp7pq3",
+        "moduleId": "prose"
+      }
+    },
+    "7o4x1koo1ybckn6wkwzrx69": {
+      "id": "7o4x1koo1ybckn6wkwzrx69",
+      "title": "Light in the Shadows",
+      "desc": "",
+      "updated": 1728932898225,
+      "created": 1728674718936,
+      "custom": {},
+      "fname": "prose.fiction.light-in-the-shadows",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "eae9dc2894d800367363e7a96b2105ed",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hzvm7zsf6dmy3m5lgb03jor"
+      ],
+      "parent": "fkp9z25pghg6t1y5h2hdkyt",
+      "data": {},
+      "schema": {
+        "schemaId": "no56sepqtu36qimjxw1l9hi",
+        "moduleId": "prose"
+      }
+    },
+    "hzvm7zsf6dmy3m5lgb03jor": {
+      "id": "hzvm7zsf6dmy3m5lgb03jor",
+      "title": "Outline",
+      "desc": "",
+      "updated": 1728932890324,
+      "created": 1728932837809,
+      "custom": {},
+      "fname": "prose.fiction.light-in-the-shadows.outline",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "a83d1e553acc4365bf93b34b8121ff82",
+      "links": [],
+      "anchors": {
+        "act-1---setup": {
+          "type": "header",
+          "text": "Act 1 - Setup",
+          "value": "act-1---setup",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "block-1---introducing-the-main-characters": {
+          "type": "header",
+          "text": "Block 1 - Introducing the main characters",
+          "value": "block-1---introducing-the-main-characters",
+          "line": 9,
+          "column": 0,
+          "depth": 3
+        },
+        "1-introduction---intro-to-set-up-their-ordinary-world": {
+          "type": "header",
+          "text": "1. INTRODUCTION - Intro to set up their ordinary world",
+          "value": "1-introduction---intro-to-set-up-their-ordinary-world",
+          "line": 11,
+          "column": 0,
+          "depth": 4
+        },
+        "2-incident---inciting-incident-to-start-of-the-story": {
+          "type": "header",
+          "text": "2. INCIDENT - Inciting incident to start of the story",
+          "value": "2-incident---inciting-incident-to-start-of-the-story",
+          "line": 15,
+          "column": 0,
+          "depth": 4
+        },
+        "3-fall-out---immediate-reaction-to-the-incident": {
+          "type": "header",
+          "text": "3. FALL OUT - Immediate reaction to the incident",
+          "value": "3-fall-out---immediate-reaction-to-the-incident",
+          "line": 19,
+          "column": 0,
+          "depth": 4
+        },
+        "block-2---life-gets-disrupted": {
+          "type": "header",
+          "text": "Block 2 - Life gets disrupted",
+          "value": "block-2---life-gets-disrupted",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "4-reaction---mc-reacts--reflects-on-long-term-impacts": {
+          "type": "header",
+          "text": "4. REACTION - MC reacts & reflects on long-term impacts",
+          "value": "4-reaction---mc-reacts--reflects-on-long-term-impacts",
+          "line": 25,
+          "column": 0,
+          "depth": 4
+        },
+        "5-action---mc-takes-action": {
+          "type": "header",
+          "text": "5. ACTION - MC takes action",
+          "value": "5-action---mc-takes-action",
+          "line": 29,
+          "column": 0,
+          "depth": 4
+        },
+        "6-consequence---immediate-consequences-of-mcs-actions": {
+          "type": "header",
+          "text": "6. CONSEQUENCE - Immediate consequences of MC’s actions",
+          "value": "6-consequence---immediate-consequences-of-mcs-actions",
+          "line": 33,
+          "column": 0,
+          "depth": 4
+        },
+        "block-3---time-to-change": {
+          "type": "header",
+          "text": "Block 3 - Time to change",
+          "value": "block-3---time-to-change",
+          "line": 37,
+          "column": 0,
+          "depth": 3
+        },
+        "7-pressure---mcs-life-has-changed-creating-pressure--stress": {
+          "type": "header",
+          "text": "7. PRESSURE - MC’s Life has changed, creating pressure & stress",
+          "value": "7-pressure---mcs-life-has-changed-creating-pressure--stress",
+          "line": 39,
+          "column": 0,
+          "depth": 4
+        },
+        "8-plot-twist---the-first-pinch-or-plot-twist-occurs": {
+          "type": "header",
+          "text": "8. PLOT TWIST - The first pinch or plot twist occurs",
+          "value": "8-plot-twist---the-first-pinch-or-plot-twist-occurs",
+          "line": 43,
+          "column": 0,
+          "depth": 4
+        },
+        "9-push----due-to-the-plot-twist-the-mc-is-pushed-into-the-new-world": {
+          "type": "header",
+          "text": "9. PUSH → - Due to the plot twist, the MC is pushed into the new world",
+          "value": "9-push----due-to-the-plot-twist-the-mc-is-pushed-into-the-new-world",
+          "line": 47,
+          "column": 0,
+          "depth": 4
+        },
+        "act-2---conflict": {
+          "type": "header",
+          "text": "Act 2 - Conflict",
+          "value": "act-2---conflict",
+          "line": 51,
+          "column": 0,
+          "depth": 2
+        },
+        "block-4---settle-into-new-world": {
+          "type": "header",
+          "text": "Block 4 - Settle into new world",
+          "value": "block-4---settle-into-new-world",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "10-new-world---intro-to-the-new-world-whats-changed-mcs-feelings": {
+          "type": "header",
+          "text": "10. NEW WORLD - Intro to the new world. What’s changed? MC’s feelings?",
+          "value": "10-new-world---intro-to-the-new-world-whats-changed-mcs-feelings",
+          "line": 55,
+          "column": 0,
+          "depth": 4
+        },
+        "11-fun--games---mc-takes-a-break-has-a-little-fun": {
+          "type": "header",
+          "text": "11. FUN & GAMES - MC takes a break, has a little fun",
+          "value": "11-fun--games---mc-takes-a-break-has-a-little-fun",
+          "line": 59,
+          "column": 0,
+          "depth": 4
+        },
+        "12-juxtaposition---comparison-between-the-past-world-and-the-present-one": {
+          "type": "header",
+          "text": "12. JUXTAPOSITION - Comparison between the past world and the present one",
+          "value": "12-juxtaposition---comparison-between-the-past-world-and-the-present-one",
+          "line": 63,
+          "column": 0,
+          "depth": 4
+        },
+        "block-5---main-conflict": {
+          "type": "header",
+          "text": "Block 5 - Main conflict",
+          "value": "block-5---main-conflict",
+          "line": 67,
+          "column": 0,
+          "depth": 3
+        },
+        "13-build-up---midpoint-is-approaching": {
+          "type": "header",
+          "text": "13. BUILD UP - Midpoint is approaching!",
+          "value": "13-build-up---midpoint-is-approaching",
+          "line": 69,
+          "column": 0,
+          "depth": 4
+        },
+        "14-midpoint---the-main-midpoint-conflict": {
+          "type": "header",
+          "text": "14. MIDPOINT - The main midpoint conflict",
+          "value": "14-midpoint---the-main-midpoint-conflict",
+          "line": 73,
+          "column": 0,
+          "depth": 4
+        },
+        "15-reversal---immediate-reaction-or-consequence-of-the-midpoint": {
+          "type": "header",
+          "text": "15. REVERSAL - Immediate reaction or consequence of the midpoint",
+          "value": "15-reversal---immediate-reaction-or-consequence-of-the-midpoint",
+          "line": 77,
+          "column": 0,
+          "depth": 4
+        },
+        "block-6---find-the-end-goal": {
+          "type": "header",
+          "text": "Block 6 - Find the end-goal",
+          "value": "block-6---find-the-end-goal",
+          "line": 81,
+          "column": 0,
+          "depth": 3
+        },
+        "16-consequence---mc-reflects-on-long-term-impacts-of-midpoint": {
+          "type": "header",
+          "text": "16. CONSEQUENCE - MC reflects on long-term impacts of midpoint",
+          "value": "16-consequence---mc-reflects-on-long-term-impacts-of-midpoint",
+          "line": 83,
+          "column": 0,
+          "depth": 4
+        },
+        "17-trials---mc-takes-action-but-due-to-the-enormity-of-the-task-stuff-go-wrong": {
+          "type": "header",
+          "text": "17. TRIALS - MC takes action, but due to the enormity of the task, stuff go wrong",
+          "value": "17-trials---mc-takes-action-but-due-to-the-enormity-of-the-task-stuff-go-wrong",
+          "line": 87,
+          "column": 0,
+          "depth": 4
+        },
+        "18-dedicated---despite-setbacks-mc-decides-to-succeed-no-matter-what": {
+          "type": "header",
+          "text": "18. DEDICATED - Despite setbacks, MC decides to succeed no matter what",
+          "value": "18-dedicated---despite-setbacks-mc-decides-to-succeed-no-matter-what",
+          "line": 91,
+          "column": 0,
+          "depth": 4
+        },
+        "act-3---resolution": {
+          "type": "header",
+          "text": "Act 3 - Resolution",
+          "value": "act-3---resolution",
+          "line": 95,
+          "column": 0,
+          "depth": 2
+        },
+        "block-7---darkest-moment": {
+          "type": "header",
+          "text": "Block 7 - Darkest moment",
+          "value": "block-7---darkest-moment",
+          "line": 97,
+          "column": 0,
+          "depth": 3
+        },
+        "19-calm-before-the-storm---stuff-seem-to-calm-down-but-the-tension-is-still-there": {
+          "type": "header",
+          "text": "19. CALM BEFORE THE STORM - Stuff seem to calm down, but the tension is still there",
+          "value": "19-calm-before-the-storm---stuff-seem-to-calm-down-but-the-tension-is-still-there",
+          "line": 99,
+          "column": 0,
+          "depth": 4
+        },
+        "20-plot-twist---mc-experiences-something-completely-unexpected": {
+          "type": "header",
+          "text": "20. PLOT TWIST - MC experiences something completely unexpected",
+          "value": "20-plot-twist---mc-experiences-something-completely-unexpected",
+          "line": 103,
+          "column": 0,
+          "depth": 4
+        },
+        "21-darkest-moment---success-seems-impossible": {
+          "type": "header",
+          "text": "21. DARKEST MOMENT - Success seems impossible",
+          "value": "21-darkest-moment---success-seems-impossible",
+          "line": 107,
+          "column": 0,
+          "depth": 4
+        },
+        "block-8---motivated": {
+          "type": "header",
+          "text": "Block 8 - Motivated",
+          "value": "block-8---motivated",
+          "line": 111,
+          "column": 0,
+          "depth": 3
+        },
+        "22-power-within---mc-remembers-their-desire-to-succeed--finds-their-inner-power": {
+          "type": "header",
+          "text": "22. POWER WITHIN - MC remembers their desire to succeed & finds their inner power",
+          "value": "22-power-within---mc-remembers-their-desire-to-succeed--finds-their-inner-power",
+          "line": 113,
+          "column": 0,
+          "depth": 4
+        },
+        "23-actionrally---mc-takes-action-plot-lines-begin-to-converge": {
+          "type": "header",
+          "text": "23. ACTION/RALLY - MC takes action, plot lines begin to converge",
+          "value": "23-actionrally---mc-takes-action-plot-lines-begin-to-converge",
+          "line": 117,
+          "column": 0,
+          "depth": 4
+        },
+        "24-converge---the-final-battle-is-approaching": {
+          "type": "header",
+          "text": "24. CONVERGE - The final battle is approaching!",
+          "value": "24-converge---the-final-battle-is-approaching",
+          "line": 121,
+          "column": 0,
+          "depth": 4
+        },
+        "block-9---finale": {
+          "type": "header",
+          "text": "Block 9 - Finale",
+          "value": "block-9---finale",
+          "line": 125,
+          "column": 0,
+          "depth": 3
+        },
+        "25-battle---the-finale-mc-has-one-last-battle": {
+          "type": "header",
+          "text": "25. BATTLE - The finale! MC has one last battle",
+          "value": "25-battle---the-finale-mc-has-one-last-battle",
+          "line": 127,
+          "column": 0,
+          "depth": 4
+        },
+        "26-climax---mc-takes-action-to-resolve-the-problem-from-the-midpoint": {
+          "type": "header",
+          "text": "26. CLIMAX - MC takes action to resolve the problem from the midpoint",
+          "value": "26-climax---mc-takes-action-to-resolve-the-problem-from-the-midpoint",
+          "line": 131,
+          "column": 0,
+          "depth": 4
+        },
+        "27-resolution---immediate-reaction-to-mcs-decision": {
+          "type": "header",
+          "text": "27. RESOLUTION - Immediate reaction to MC’s decision",
+          "value": "27-resolution---immediate-reaction-to-mcs-decision",
+          "line": 135,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [],
+      "parent": "7o4x1koo1ybckn6wkwzrx69",
+      "data": {},
+      "schema": {
+        "schemaId": "vnao88je47rhftei57kuy05",
+        "moduleId": "prose"
+      }
+    }
+  },
+  "domains": [
+    {
+      "id": "root",
+      "title": "Yoela's Garden",
+      "desc": "",
+      "updated": 1728743963747,
+      "created": 1595961348801,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "ae2a8a5da1925caba2d4a39ffbc7d28f",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "wsv54z6fb6pyr9l8y3kv8li",
+        "36im6j46cxlgm7yqwfsy0sy",
+        "tqb5hhhvpbz2nzpykihc7l2",
+        "cyzf7ekzgc9m43pfwa3kv5e"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\nWelcome to my digital garden! What's that? Well, a digital garden is a curated set of notes, often shared online for learning and sharing purposes. My garden is mostly full of my study notes, plain ole' random notes, prose, and whatever world I'm creating at the moment. So, yes, I'm tending to it nearly every day.\n\nWith that out of the way, just a fair warning, not everything in this garden will make sense to you. There are some sections that are… shall we say, little buds that need a bit more watering and time before they're big enough to actually portray their species. To help you (and me) figure out the growth status of a page, there are emojis on every one that show their current state within the garden.\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "root",
+    "title": "Yoela's Garden",
+    "desc": "",
+    "updated": 1728743963747,
+    "created": 1595961348801,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Dendron"
+    },
+    "contentHash": "ae2a8a5da1925caba2d4a39ffbc7d28f",
+    "links": [],
+    "anchors": {},
+    "children": [
+      "wsv54z6fb6pyr9l8y3kv8li",
+      "36im6j46cxlgm7yqwfsy0sy",
+      "tqb5hhhvpbz2nzpykihc7l2",
+      "cyzf7ekzgc9m43pfwa3kv5e"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\nWelcome to my digital garden! What's that? Well, a digital garden is a curated set of notes, often shared online for learning and sharing purposes. My garden is mostly full of my study notes, plain ole' random notes, prose, and whatever world I'm creating at the moment. So, yes, I'm tending to it nearly every day.\n\nWith that out of the way, just a fair warning, not everything in this garden will make sense to you. There are some sections that are… shall we say, little buds that need a bit more watering and time before they're big enough to actually portray their species. To help you (and me) figure out the growth status of a page, there are emojis on every one that show their current state within the garden.\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Dendron"
+    }
+  ]
+}

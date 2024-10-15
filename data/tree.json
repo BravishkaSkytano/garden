@@ -1,0 +1,321 @@
+{
+  "roots": [
+    {
+      "key": "wsv54z6fb6pyr9l8y3kv8li",
+      "title": "Prose",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "fkp9z25pghg6t1y5h2hdkyt",
+          "title": "Fiction",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": [
+            {
+              "key": "7o4x1koo1ybckn6wkwzrx69",
+              "title": "Light in the Shadows",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": [
+                {
+                  "key": "hzvm7zsf6dmy3m5lgb03jor",
+                  "title": "Outline",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "8yxv7w0okboy1gbreysq19u",
+          "title": "Tips and Advice",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "36im6j46cxlgm7yqwfsy0sy",
+      "title": "Study Notes",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "31gg9ix2f4hekkbd3aeuvqa",
+          "title": "COM101 Speech Communication",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": [
+            {
+              "key": "n09kh21ppcgtwroghl2pw8c",
+              "title": "Informative Speech Prep",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            },
+            {
+              "key": "rp3sxu08dcfkaynb5g3ervr",
+              "title": "Persuasive Speech Prep",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            },
+            {
+              "key": "2dzily55yqbxz28i6nb8dup",
+              "title": "Reading Reflection 3 - Summary of Chapter 5",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            },
+            {
+              "key": "l10nvjxxz5knjqf6nunz04z",
+              "title": "Writing Assignment 1 - Public Speaking and Me",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            },
+            {
+              "key": "g3irz2bpj2z03vzur9kn7i2",
+              "title": "Writing Assignment 3",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "5v6kjjpt4r3tjxbe8o5f9jc",
+          "title": "Meta Front-End Developer Certificate",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": [
+            {
+              "key": "0v5gxh971euh89tdpsce6hh",
+              "title": "Introduction to Front-End Development",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": [
+                {
+                  "key": "5319t32cb45w37lzh80iqr9",
+                  "title": "How the Web Works",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "children": [
+                    {
+                      "key": "lo02xz8yj8lyx9vlweiv7z8",
+                      "title": "How the Internet Works",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "6eqez8mpkwuecuaytj6uo8b",
+                  "title": "Intro",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "1ew6j3ex8lt2kobdm8yvw75",
+          "title": "PHL1113 Survey of Social Engagement",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        },
+        {
+          "key": "7rc6z9shlwaktmmg010lf9l",
+          "title": "REL1010 Introduction to Old Testament",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        },
+        {
+          "key": "zic4gzre50xd0tv6dtd3wyu",
+          "title": "SOC2110 Service Learning",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": [
+            {
+              "key": "xb3xvb90gi0rwimlzbs28wp",
+              "title": "Project Summary",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "cyzf7ekzgc9m43pfwa3kv5e",
+      "title": "Templates",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "xt5gqnugi3ljicomzsv1xt2",
+          "title": "27 Chapter Outline",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        },
+        {
+          "key": "nyvznty211gu3dcavt8uvu6",
+          "title": "Character",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "tqb5hhhvpbz2nzpykihc7l2",
+      "title": "Worldbuilding",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "dh77ksbblhai1bj8tlv1fdv",
+          "title": "Ilmaria",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": [
+            {
+              "key": "0dldn0sqbain8rek4c9y1xd",
+              "title": "Creatures",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            },
+            {
+              "key": "f8se6u4qzarbu6ng3ak44vz",
+              "title": "Geography",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": [
+                {
+                  "key": "xd02lifwz8uu4mm8amq2qf4",
+                  "title": "Sunaara Deserts",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "gq3hcnu0xitvqq7xcougdx4",
+              "title": "Magical Systems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "wsv54z6fb6pyr9l8y3kv8li": null,
+    "fkp9z25pghg6t1y5h2hdkyt": "wsv54z6fb6pyr9l8y3kv8li",
+    "7o4x1koo1ybckn6wkwzrx69": "fkp9z25pghg6t1y5h2hdkyt",
+    "hzvm7zsf6dmy3m5lgb03jor": "7o4x1koo1ybckn6wkwzrx69",
+    "8yxv7w0okboy1gbreysq19u": "wsv54z6fb6pyr9l8y3kv8li",
+    "36im6j46cxlgm7yqwfsy0sy": null,
+    "31gg9ix2f4hekkbd3aeuvqa": "36im6j46cxlgm7yqwfsy0sy",
+    "n09kh21ppcgtwroghl2pw8c": "31gg9ix2f4hekkbd3aeuvqa",
+    "rp3sxu08dcfkaynb5g3ervr": "31gg9ix2f4hekkbd3aeuvqa",
+    "2dzily55yqbxz28i6nb8dup": "31gg9ix2f4hekkbd3aeuvqa",
+    "l10nvjxxz5knjqf6nunz04z": "31gg9ix2f4hekkbd3aeuvqa",
+    "g3irz2bpj2z03vzur9kn7i2": "31gg9ix2f4hekkbd3aeuvqa",
+    "5v6kjjpt4r3tjxbe8o5f9jc": "36im6j46cxlgm7yqwfsy0sy",
+    "0v5gxh971euh89tdpsce6hh": "5v6kjjpt4r3tjxbe8o5f9jc",
+    "5319t32cb45w37lzh80iqr9": "0v5gxh971euh89tdpsce6hh",
+    "lo02xz8yj8lyx9vlweiv7z8": "5319t32cb45w37lzh80iqr9",
+    "6eqez8mpkwuecuaytj6uo8b": "0v5gxh971euh89tdpsce6hh",
+    "1ew6j3ex8lt2kobdm8yvw75": "36im6j46cxlgm7yqwfsy0sy",
+    "7rc6z9shlwaktmmg010lf9l": "36im6j46cxlgm7yqwfsy0sy",
+    "zic4gzre50xd0tv6dtd3wyu": "36im6j46cxlgm7yqwfsy0sy",
+    "xb3xvb90gi0rwimlzbs28wp": "zic4gzre50xd0tv6dtd3wyu",
+    "cyzf7ekzgc9m43pfwa3kv5e": null,
+    "xt5gqnugi3ljicomzsv1xt2": "cyzf7ekzgc9m43pfwa3kv5e",
+    "nyvznty211gu3dcavt8uvu6": "cyzf7ekzgc9m43pfwa3kv5e",
+    "tqb5hhhvpbz2nzpykihc7l2": null,
+    "dh77ksbblhai1bj8tlv1fdv": "tqb5hhhvpbz2nzpykihc7l2",
+    "0dldn0sqbain8rek4c9y1xd": "dh77ksbblhai1bj8tlv1fdv",
+    "f8se6u4qzarbu6ng3ak44vz": "dh77ksbblhai1bj8tlv1fdv",
+    "xd02lifwz8uu4mm8amq2qf4": "f8se6u4qzarbu6ng3ak44vz",
+    "gq3hcnu0xitvqq7xcougdx4": "dh77ksbblhai1bj8tlv1fdv"
+  },
+  "notesLabelById": {
+    "wsv54z6fb6pyr9l8y3kv8li": "Prose",
+    "fkp9z25pghg6t1y5h2hdkyt": "Fiction",
+    "7o4x1koo1ybckn6wkwzrx69": "Light in the Shadows",
+    "hzvm7zsf6dmy3m5lgb03jor": "Outline",
+    "8yxv7w0okboy1gbreysq19u": "Tips and Advice",
+    "36im6j46cxlgm7yqwfsy0sy": "Study Notes",
+    "31gg9ix2f4hekkbd3aeuvqa": "COM101 Speech Communication",
+    "n09kh21ppcgtwroghl2pw8c": "Informative Speech Prep",
+    "rp3sxu08dcfkaynb5g3ervr": "Persuasive Speech Prep",
+    "2dzily55yqbxz28i6nb8dup": "Reading Reflection 3 - Summary of Chapter 5",
+    "l10nvjxxz5knjqf6nunz04z": "Writing Assignment 1 - Public Speaking and Me",
+    "g3irz2bpj2z03vzur9kn7i2": "Writing Assignment 3",
+    "5v6kjjpt4r3tjxbe8o5f9jc": "Meta Front-End Developer Certificate",
+    "0v5gxh971euh89tdpsce6hh": "Introduction to Front-End Development",
+    "5319t32cb45w37lzh80iqr9": "How the Web Works",
+    "lo02xz8yj8lyx9vlweiv7z8": "How the Internet Works",
+    "6eqez8mpkwuecuaytj6uo8b": "Intro",
+    "1ew6j3ex8lt2kobdm8yvw75": "PHL1113 Survey of Social Engagement",
+    "7rc6z9shlwaktmmg010lf9l": "REL1010 Introduction to Old Testament",
+    "zic4gzre50xd0tv6dtd3wyu": "SOC2110 Service Learning",
+    "xb3xvb90gi0rwimlzbs28wp": "Project Summary",
+    "cyzf7ekzgc9m43pfwa3kv5e": "Templates",
+    "xt5gqnugi3ljicomzsv1xt2": "27 Chapter Outline",
+    "nyvznty211gu3dcavt8uvu6": "Character",
+    "tqb5hhhvpbz2nzpykihc7l2": "Worldbuilding",
+    "dh77ksbblhai1bj8tlv1fdv": "Ilmaria",
+    "0dldn0sqbain8rek4c9y1xd": "Creatures",
+    "f8se6u4qzarbu6ng3ak44vz": "Geography",
+    "xd02lifwz8uu4mm8amq2qf4": "Sunaara Deserts",
+    "gq3hcnu0xitvqq7xcougdx4": "Magical Systems"
+  }
+}
