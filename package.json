@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.124.2"
+    "@dendronhq/dendron-cli": "^0.119.0"
   }
 }
