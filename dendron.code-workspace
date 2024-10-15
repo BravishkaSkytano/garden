@@ -18,7 +18,7 @@
     "editor.tabCompletion": "on",
     "dendron.enableSelfContainedVaultWorkspace": true,
     "gitdoc.enabled": true,
-    "gitdoc.autoCommitDelay": 60000,
+    "gitdoc.autoCommitDelay": 1800000,
     "gitdoc.filePattern": "**/*.md"
   },
   "extensions": {
