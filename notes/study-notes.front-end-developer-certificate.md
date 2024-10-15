@@ -1,8 +1,8 @@
 ---
 id: 5v6kjjpt4r3tjxbe8o5f9jc
-title: Meta Front-End Developer Professional Certificate
+title: Meta Front-End Developer Certificate
 desc: ''
-updated: 1729023489162
+updated: 1729027534099
 created: 1729022792640
 ---
 A 9-course series on Coursera that will launch your career as a front-end developer. Taught by the Meta staff.

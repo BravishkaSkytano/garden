@@ -1,8 +1,8 @@
 ---
 id: n09kh21ppcgtwroghl2pw8c
 title: Informative Speech Prep
-desc: ''
-updated: 1728673711200
+desc: 'The introduction for my informative speech'
+updated: 1729027719721
 created: 1728673698973
 ---
 Greetings, ladies and gentlemen, my name is Yoela Olson, and I've come here to ask you a simple, yet seemingly complex, question—how would you make your own bag if faced with the task? **(PAUSE)** I'm sure some of you immediately had a thought similar to "why would I do that when I could just buy one?" However, take a moment to envision this scenario with me.
