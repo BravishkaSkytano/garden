@@ -2,7 +2,7 @@
 id: 0v5gxh971euh89tdpsce6hh
 title: Introduction to Front-End Development
 desc: ''
-updated: 1729024591039
+updated: 1729025225849
 created: 1729023501465
 ---
 ## Goals
@@ -27,5 +27,19 @@ created: 1729023501465
    3. 5 quizzes
    4. 1 discussion prompt
 2. Introduction to HTML and CSS (6h)
+   1. 12 videos
+   2. 6 readings
+   3. 3 quizzes
+   4. 3 programming assignments
+   5. 1 discussion prompt
 3. UI Frameworks (5h)
+   1. 12 videos
+   2. 8 readings
+   3. 5 quizzes
+   4. 2 ungraded labs
 4. End-of-Course Graded Assessment (2h)
+   1. 2 videos
+   2. 3 readings
+   3. 2 quizzes
+   4. 2 discussion prompts
+   5. 1 ungraded lab
