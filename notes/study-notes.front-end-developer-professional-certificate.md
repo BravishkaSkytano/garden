@@ -2,12 +2,10 @@
 id: 5v6kjjpt4r3tjxbe8o5f9jc
 title: Meta Front-End Developer Professional Certificate
 desc: ''
-updated: 1729023406525
+updated: 1729023489162
 created: 1729022792640
 ---
 A 9-course series on Coursera that will launch your career as a front-end developer. Taught by the Meta staff.
-
-7 months, 6 hours a week
 
 ## What you'll learn
 
@@ -24,9 +22,9 @@ A 9-course series on Coursera that will launch your career as a front-end develo
 - Cascading Style Sheets (CSS)
 - React
 
-## Courses
+## Courses (7 months, 6 hours a week)
 
-1. Introduction to Front-End Development (18h)
+1. Introduction to Front-End Development (18h, 4 modules)
 2. Programming with JavaScript (42h)
 3. Version Control (13h)
 4. HTML and CSS in depth (28h)
